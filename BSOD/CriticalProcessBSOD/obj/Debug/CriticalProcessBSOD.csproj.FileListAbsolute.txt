@@ -1,0 +1,6 @@
+C:\Users\furka\source\repos\BSOD\CriticalProcessBSOD\bin\Debug\CriticalProcessBSOD.exe
+C:\Users\furka\source\repos\BSOD\CriticalProcessBSOD\bin\Debug\CriticalProcessBSOD.pdb
+C:\Users\furka\source\repos\BSOD\CriticalProcessBSOD\obj\Debug\CriticalProcessBSOD.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\BSOD\CriticalProcessBSOD\obj\Debug\CriticalProcessBSOD.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\BSOD\CriticalProcessBSOD\obj\Debug\CriticalProcessBSOD.exe
+C:\Users\furka\source\repos\BSOD\CriticalProcessBSOD\obj\Debug\CriticalProcessBSOD.pdb

@@ -1,0 +1,5 @@
+C:\Users\furka\source\repos\BSOD\InvokeBSOD\bin\Debug\InvokeBSOD.exe
+C:\Users\furka\source\repos\BSOD\InvokeBSOD\bin\Debug\InvokeBSOD.pdb
+C:\Users\furka\source\repos\BSOD\InvokeBSOD\obj\Debug\InvokeBSOD.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\BSOD\InvokeBSOD\obj\Debug\InvokeBSOD.exe
+C:\Users\furka\source\repos\BSOD\InvokeBSOD\obj\Debug\InvokeBSOD.pdb
